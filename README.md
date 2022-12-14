@@ -1,5 +1,5 @@
 # Spring-2021-DIG
- Live Demo: [https://spring2021-dream-in-green.netlify.app/](https://spring2021-dream-in-green.netlify.app/)
+ Live Demo: [https://dreamingreen.netlify.app/](https://dreamingreen.netlify.app/)
 
 Spring 2021 Dream In Green Project
 
